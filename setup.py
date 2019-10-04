@@ -46,7 +46,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="jsonrpclib-pelix",
+    name="jsonrpclib",
     version=__version__,
     license="Apache License 2.0",
     author="Thomas Calmant",
