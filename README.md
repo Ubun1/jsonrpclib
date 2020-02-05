@@ -470,3 +470,4 @@ JSON:
 * Your server doesn't do JSON (rather obvious)
 * Wider XML-RPC support across APIs (can we change this? :))
 * Libraries are more established, *i.e.* more stable (Let's change this too)
+test
