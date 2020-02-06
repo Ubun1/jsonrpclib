@@ -21,7 +21,7 @@
 
 Name:      python-%{pkgname}
 Version:   0.4.0
-Release:   test0%{?dist}
+Release:   test2%{?dist}
 Summary:   JSON-RPC v2.0 client library for Python
 License:   ASL 2.0
 URL:       http://github.com/tcalmant/jsonrpclib/
